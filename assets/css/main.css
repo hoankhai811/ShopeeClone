@@ -1463,7 +1463,7 @@ i.home-product-item__like-icon-fill {
 .home-product-item__favourite::after {
     content: "";
     position: absolute;
-    top: 25px;
+    top: 16px;
     left: 0;
     border-top: 3px solid currentColor;
     border-left: 3px solid transparent;
